@@ -1,0 +1,3 @@
+Cuanto es 2+2?: a)12, b)4, c)10
+Cuanto es 3*8?: a)12, b)17, c)24
+Cuanto es la raíz cuadrada de 64?: a)8,  b)9, c)35
